@@ -15,4 +15,13 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
     }
+
+
+    /**
+     * 这是一个测试方法
+     * @param args
+     */
+    public void test(String[] args){
+
+    }
 }
