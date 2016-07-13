@@ -15,4 +15,35 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
     }
+
+
+    /**
+     * 这是一个测试方法
+     * @param args
+     */
+    public void test(String[] args){
+
+    }
+
+    /**
+     * 这是第二个测试方法
+     */
+    public void test2(){
+
+    }
+
+    /**
+     * 合并分支
+     */
+    public void commitBranch(){
+        
+    }
+
+    /**
+     * 合并到master 和 develop 分支
+     */
+    public void confit(){
+        
+    }
+
 }
