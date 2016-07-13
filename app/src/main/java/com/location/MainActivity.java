@@ -32,4 +32,11 @@ public class MainActivity extends AppCompatActivity {
 
     }
 
+    /**
+     * 合并分支
+     */
+    public void commitBranch(){
+        
+    }
+
 }
