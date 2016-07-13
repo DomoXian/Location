@@ -39,4 +39,11 @@ public class MainActivity extends AppCompatActivity {
         
     }
 
+    /**
+     * 合并到master 和 develop 分支
+     */
+    public void confit(){
+        
+    }
+
 }
