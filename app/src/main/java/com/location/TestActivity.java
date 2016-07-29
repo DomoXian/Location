@@ -12,9 +12,4 @@ public class TestActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
 
     }
-
-    @Override
-    protected void onResume() {
-        super.onResume();
-    }
 }
